@@ -1,0 +1,23 @@
+-ls: lists files and directories in the current working directory. 
+ls -a, ls -d, ls -l, ls -r
+-pwd: present working directory
+-cd: change directory cd directory name with path 
+-mkdir: to make new directory 
+mkdir newfile
+mkdir dir{1..100}
+-touch 
+touch file1
+creates a new file
+-cat prints the contents of the file.
+-echo prints whatever follows the command 
+-more displays contents of text file. 
+-less is extended version of more. 
+allows bidirectional movement unlike more along with search
+-man offer a really efficient way to know the functionality of pretty much all the commands. 
+-find and locate 
+-grep
+-head
+-tail
+-pipe
+-export 
+
